@@ -1,0 +1,1 @@
+# Generador_QR_con_logo-
