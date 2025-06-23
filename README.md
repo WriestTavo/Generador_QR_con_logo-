@@ -40,12 +40,12 @@ Coloca una imagen llamada `logo.png` en la misma carpeta donde se encuentra el s
 
 #### Opción A: Desde la terminal con parámetro
 ```bash
-python qr_generator.py https://tusitio.com
+python Generador_QR_con_logo.py https://tusitio.com
 ```
 
 #### Opción B: Sin parámetros (te pedirá la URL)
 ```bash
-python qr_generator.py
+python Generador_QR_con_logo.py
 🔗 Ingresa la URL para el QR: https://tusitio.com
 ```
 
