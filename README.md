@@ -65,7 +65,7 @@ qr_tusitio_com_20250623_153000.png
 
 ## 🖼️ Ejemplo visual
 
-![Ejemplo](img_generadas/ejemplo_qr.png)
+![Ejemplo](qr_ejemplo.png)
 
 ---
 
